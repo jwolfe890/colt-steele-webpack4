@@ -1,1 +1,1 @@
-alert("hello from source file")
+console.log("hello from source file")
